@@ -1,0 +1,7 @@
+numpy==1.19.0
+gevent==20.6.2
+requests==2.24.0
+Flask==1.1.2
+torch==1.2.0+cpu
+torchvision==0.4.0+cpu
+Pillow==7.2.0
