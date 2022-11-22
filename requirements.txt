@@ -4,4 +4,4 @@ requests==2.24.0
 Flask==1.1.2
 torch==1.2.0+cpu
 torchvision==0.4.0+cpu
-Pillow==7.2.0
+Pillow==9.3.0
